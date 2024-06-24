@@ -1,0 +1,46 @@
+[
+    {
+        "fullName": "Kathryn Janeway",
+        "age": 33
+    },
+    {
+        "fullName": "Benjamin Sisko",
+        "age": 22
+    },
+    {
+        "fullName": "James T. Kirk",
+        "age": 17
+    },
+    {
+        "fullName": "William T. Riker",
+        "age": 13
+    },
+    {
+        "fullName": "Jean-Luc Picard",
+        "age": 43
+    },
+    {
+        "fullName": "Cristóbal Rios",
+        "age": 15
+    },
+    {
+        "fullName": "Seven of Nine",
+        "age": 16
+    },
+    {
+        "fullName": "Tuvok",
+        "age": 44
+    },
+    {
+        "fullName": "Jonathan Archer",
+        "age": 54
+    },
+    {
+        "fullName": "Hikaru Sulu",
+        "age": 23
+    },
+    {
+        "fullName": "Worf",
+        "age": 44
+    }
+]
